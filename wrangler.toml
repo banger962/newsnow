@@ -1,7 +1,0 @@
-name = "newsnow-db"
-type = "javascript"
-
-[[d1_databases]]
-binding = "NEWSNOW_DB"
-database_name = "newsnow_db"
-database_id = "a82e2f99-2a80-4a90-aa81-ec9bf0190d8e"
