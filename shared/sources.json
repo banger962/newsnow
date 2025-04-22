@@ -24,15 +24,6 @@
     "color": "blue",
     "interval": 600000
   },
-  "weibo": {
-    "title": "实时热搜",
-    "name": "微博",
-    "type": "hottest",
-    "column": "china",
-    "home": "https://weibo.com",
-    "color": "red",
-    "interval": 120000
-  },
   "zaobao": {
     "name": "联合早报",
     "type": "realtime",
@@ -107,23 +98,6 @@
     "color": "blue",
     "interval": 600000,
     "title": "快讯"
-  },
-  "douyin": {
-    "name": "抖音",
-    "type": "hottest",
-    "column": "china",
-    "home": "https://www.douyin.com",
-    "color": "gray",
-    "interval": 600000
-  },
-  "tieba": {
-    "title": "热议",
-    "name": "百度贴吧",
-    "type": "hottest",
-    "column": "china",
-    "home": "https://tieba.baidu.com",
-    "color": "blue",
-    "interval": 600000
   },
   "toutiao": {
     "name": "今日头条",
@@ -365,15 +339,6 @@
     "interval": 1800000,
     "title": "排行榜"
   },
-  "kuaishou": {
-    "name": "快手",
-    "type": "hottest",
-    "disable": "cf",
-    "column": "china",
-    "home": "https://www.kuaishou.com",
-    "color": "orange",
-    "interval": 600000
-  },
   "kaopu": {
     "name": "靠谱新闻",
     "desc": "不一定靠谱，多看多思考",
@@ -387,14 +352,6 @@
     "type": "realtime",
     "column": "finance",
     "home": "https://www.jin10.com",
-    "color": "blue",
-    "interval": 600000
-  },
-  "baidu": {
-    "name": "百度热搜",
-    "type": "hottest",
-    "column": "china",
-    "home": "https://www.baidu.com",
     "color": "blue",
     "interval": 600000
   },
