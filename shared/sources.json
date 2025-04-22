@@ -99,14 +99,6 @@
     "interval": 600000,
     "title": "快讯"
   },
-  "toutiao": {
-    "name": "今日头条",
-    "type": "hottest",
-    "column": "china",
-    "home": "https://www.toutiao.com",
-    "color": "red",
-    "interval": 600000
-  },
   "ithome": {
     "name": "IT之家",
     "type": "realtime",
