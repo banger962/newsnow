@@ -84,24 +84,10 @@ export const originSources = {
       },
     },
   },
-  "douyin": {
-    name: "抖音",
-    type: "hottest",
-    column: "china",
-    color: "gray",
-    home: "https://www.douyin.com",
-  },
   "hupu": {
     name: "虎扑",
     disable: true,
     home: "https://hupu.com",
-  },
-  "toutiao": {
-    name: "今日头条",
-    type: "hottest",
-    column: "china",
-    color: "red",
-    home: "https://www.toutiao.com",
   },
   "ithome": {
     name: "IT之家",
@@ -269,15 +255,6 @@ export const originSources = {
       },
     },
   },
-  "kuaishou": {
-    name: "快手",
-    type: "hottest",
-    column: "china",
-    color: "orange",
-    // cloudflare pages cannot access
-    disable: "cf",
-    home: "https://www.kuaishou.com",
-  },
   "kaopu": {
     name: "靠谱新闻",
     column: "world",
@@ -292,13 +269,6 @@ export const originSources = {
     color: "blue",
     type: "realtime",
     home: "https://www.jin10.com",
-  },
-  "baidu": {
-    name: "百度热搜",
-    column: "china",
-    color: "blue",
-    type: "hottest",
-    home: "https://www.baidu.com",
   },
   "linuxdo": {
     name: "LINUX DO",
