@@ -31,15 +31,6 @@ export const originSources = {
     color: "blue",
     home: "https://www.zhihu.com",
   },
-  "weibo": {
-    name: "微博",
-    title: "实时热搜",
-    type: "hottest",
-    column: "china",
-    color: "red",
-    interval: Time.Realtime,
-    home: "https://weibo.com",
-  },
   "zaobao": {
     name: "联合早报",
     interval: Time.Common,
@@ -104,14 +95,6 @@ export const originSources = {
     name: "虎扑",
     disable: true,
     home: "https://hupu.com",
-  },
-  "tieba": {
-    name: "百度贴吧",
-    title: "热议",
-    column: "china",
-    type: "hottest",
-    color: "blue",
-    home: "https://tieba.baidu.com",
   },
   "toutiao": {
     name: "今日头条",
